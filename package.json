@@ -55,7 +55,7 @@
     "graphql-subscriptions": "^0.3.0",
     "graphql-tools": "^0.10.1",
     "knex": "0.12.9",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "optics-agent": "^1.0.5",
     "passport": "0.3.2",
     "passport-github": "1.1.0",
